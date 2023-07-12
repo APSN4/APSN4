@@ -67,6 +67,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/apsn4/apsn4/output/snake.svg" alt="Snake animation" />
+![snake](https://github.com/APSN4/APSN4/assets/45320521/6bff20e5-4a4c-459d-a1cd-769d8f4a722a)
+
 
 ###
